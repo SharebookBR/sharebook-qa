@@ -9,7 +9,7 @@ namespace SharebookQA.UI
     public abstract class SeleniumBase : IDisposable
     {
         public IWebDriver driver;
-        protected string url = "http://localhost:4200";
+        protected string url = "http://stg.sharebook.com.br";
 
         public SeleniumBase()
         {

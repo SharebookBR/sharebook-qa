@@ -10,7 +10,7 @@ namespace SharebookQA.UI.Tests
         private readonly CommonPage commonPage;
         public LoginTests()
         {
-            url = "http://localhost:4200/login";
+            url += "/login";
             driver.Navigate().GoToUrl(url);
             loginPageObject = new LoginPage(driver);
             commonPage = new CommonPage(driver);

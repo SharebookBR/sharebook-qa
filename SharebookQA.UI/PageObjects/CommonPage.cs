@@ -1,5 +1,7 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using SharebookQA.UI.Helpers;
+using System;
 using Xunit;
 
 namespace SharebookQA.UI.PageObjects
@@ -17,7 +19,7 @@ namespace SharebookQA.UI.PageObjects
         {
             get
             {
-                return _driver.FindElement(By.Id("welcomeUser"));
+                 return _driver.FindElement(By.Id("welcomeUser"), 5);
             }
         }
 
