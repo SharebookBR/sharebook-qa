@@ -19,7 +19,7 @@ https://trello.com/invite/sharebook6/928f21ef82592b5edafde06f171d338b
 
 ### 3.2 - PEGUE UMA ESTÓRIA NO TRELLO.
 
-- https://trello.com/b/GfG6wRHn/qa
+- https://trello.com/b/QTdWPYhl/sharebook
 - Coloque no seu nome e mova para DOING.
 
 ## 4 - VALIDE A ESTÓRIA NO AMBIENTE STAGE
@@ -32,4 +32,4 @@ https://trello.com/invite/sharebook6/928f21ef82592b5edafde06f171d338b
 - https://github.com/SharebookBR/frontend/issues
 
 
-### 5 MISSÃO CUMPRIDA. VC AJUDOU O PROJETO. 
+### 5 MISSÃO CUMPRIDA. VC AJUDOU O PROJETO. S2
